@@ -1,0 +1,35 @@
+Employee name: Jeff
+Employee initial salary: 341903
+Employee salary after allowances: 714577.27
+Employee medical: 164113.44
+Employee salary after tax: 699571.1473300001
+Total tax deducted: 15006.12267
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Employee name: Sam
+Employee initial salary: 239893
+Employee salary after allowances: 501376.37
+Employee medical: 115148.64
+Employee salary after tax: 490847.46623
+Total tax deducted: 10528.90377
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Employee name: Skye
+Employee initial salary: 238192
+Employee salary after allowances: 497821.27999999997
+Employee medical: 114332.15999999999
+Employee salary after tax: 487367.03312
+Total tax deducted: 10454.24688
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Employee name: Cory
+Employee initial salary: 239001
+Employee salary after allowances: 499512.08999999997
+Employee medical: 114720.48
+Employee salary after tax: 489022.33611
+Total tax deducted: 10489.75389
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Employee name: Stacey
+Employee initial salary: 2039085
+Employee salary after allowances: 4261687.649999999
+Employee medical: 978760.7999999999
+Employee salary after tax: 4172192.2093499997
+Total tax deducted: 89495.44064999999
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

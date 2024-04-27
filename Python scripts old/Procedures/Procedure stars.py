@@ -1,0 +1,4 @@
+def stars():
+    print("**********")
+
+stars()
